@@ -7,7 +7,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'fireflyiii/core:latest'
+          default: 'ytdl-org/youtube-dl:latest'
 
 # env:
 #   REGISTRY: ghcr.io
