@@ -7,7 +7,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'ytdl-org/youtube-dl:latest'
+          default: 'stefanprodan/podinfo:latest'
 
 # env:
 #   REGISTRY: ghcr.io
