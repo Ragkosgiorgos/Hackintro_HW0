@@ -7,7 +7,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'traefik/whoami:latest'
+          default: 'filebrowser/filebrowser:latest'
 
 # env:
 #   REGISTRY: ghcr.io
