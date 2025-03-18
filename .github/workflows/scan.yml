@@ -7,7 +7,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'wger/wger:latest'
+          default: 'mealie/mealie:latest'
 
 # env:
 #   REGISTRY: ghcr.io
